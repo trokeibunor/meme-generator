@@ -1,0 +1,15 @@
+.cardBody{
+    width: 100%;
+    background-color: white;
+    margin: 0px;
+}
+.submitBtn{
+    background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+    border-radius: 5px;
+    color: white;
+    height: 40px;
+}
+input[type="text"]{
+    border: 1px solid #D5D4D8;
+    border-radius: 5px;
+}
